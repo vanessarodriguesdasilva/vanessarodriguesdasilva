@@ -2,12 +2,18 @@
 
 Estudante do 3° ano do Ensino Médio Técnico no SENAI.
 
-[Meu GitHub](https://github.com/vanessarodriguesdasilva)
-
-
 ### ★ Formação
 
 * **Ensino Médio Técnico:** SENAI (cursando)
+
+### ★ Interesses
+
+Leitura (suspense, terror), Anime, Caminhadas.
+
+### ★ Informações de Contato
+
+* 📧 vanezsasilvarodrigues@gmail.com
+* 📞 (48) 9 9117-3113
 
 ### ★ Habilidades Técnicas
 
@@ -20,14 +26,20 @@ Estudante do 3° ano do Ensino Médio Técnico no SENAI.
    
 </details>
 
-### ★ Interesses
+<div align="center">
 
-Leitura (suspense, terror), Anime, Caminhadas.
+    <a href="https://github.com/GabrielaSenna">
 
-### ★ Informações de Contato
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=biadjordjevic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-* 📧 vanezsasilvarodrigues@gmail.com
-* 📞 (48) 9 9117-3113
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biadjordjevic&layout=compact&langs_count=7&theme=tokyonight"/>
+
+</div>
+
+-->
+
+
+
 
  
 
