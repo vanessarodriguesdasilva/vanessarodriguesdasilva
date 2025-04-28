@@ -1,27 +1,30 @@
- ## About me! 
+## Vanessa Rodrigues da Silva
 
-> ★NOTE
-> - Meu nome é Vanessa mas tenho alguns apelidos, ness e vane são os mais comuns.  
-> - Tenho 17 anos.  
-> - Estou no 3 ° ano do ensino médio Técnico no SENAI.    
-> - Meus passatempos favoritos são livros de suspense, ver animes e caminhadas.
+Estudante do 3° ano do Ensino Médio Técnico no SENAI.
 
-★Como entrar em contato:
+### Formação
 
-*   E-mail: [vanezsasilvarodrigues@gmail.com]
-*   Número: [ (48) 9 9117-3113]
+* **Ensino Médio Técnico:** SENAI (cursando)
+
+### Habilidades Técnicas
 
 <details>
-<summary> ★ Linguagens que mais uso</summary>
-  
-| Rank | Linguagens|
-|-----:|-----------|
-|     1| HTML      |
-|     2| CSS       |
-|     3| JS        |
+<summary> Proficiência em:</summary>
+ 
+1.  **HTML:** Experiência na estruturação de conteúdo web.  
+2.  **CSS:** Habilidade na estilização e apresentação visual de  páginas web.  
+3.  **JavaScript:** Conhecimento em interatividade e manipulação do DOM.  
+   
+</details>
 
-</details> 
+### Interesses
 
+Leitura (suspense, terror), Anime, Caminhadas.
+
+### Informações de Contato
+
+* 📧 vanezsasilvarodrigues@gmail.com
+* 📞 (48) 9 9117-3113
 
  
 
