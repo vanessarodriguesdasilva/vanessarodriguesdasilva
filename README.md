@@ -2,11 +2,11 @@
 
 Estudante do 3° ano do Ensino Médio Técnico no SENAI.
 
-### Formação
+### ★ Formação
 
 * **Ensino Médio Técnico:** SENAI (cursando)
 
-### Habilidades Técnicas
+### ★ Habilidades Técnicas
 
 <details>
 <summary> Proficiência em:</summary>
@@ -17,11 +17,11 @@ Estudante do 3° ano do Ensino Médio Técnico no SENAI.
    
 </details>
 
-### Interesses
+### ★ Interesses
 
 Leitura (suspense, terror), Anime, Caminhadas.
 
-### Informações de Contato
+### ★ Informações de Contato
 
 * 📧 vanezsasilvarodrigues@gmail.com
 * 📞 (48) 9 9117-3113
