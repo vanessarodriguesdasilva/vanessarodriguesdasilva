@@ -28,11 +28,11 @@ Leitura (suspense, terror), Anime, Caminhadas.
 
 <div align="center">
 
-    <a href="https://github.com/GabrielaSenna">
+    <a href="https://github.com/vanessarodriguesdasilva">
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=biadjordjevic&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="165em" src=""/>
 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=biadjordjevic&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="165em" src=""/>
 
 </div>
 
