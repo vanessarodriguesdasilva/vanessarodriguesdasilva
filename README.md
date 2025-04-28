@@ -2,6 +2,9 @@
 
 Estudante do 3° ano do Ensino Médio Técnico no SENAI.
 
+[Meu GitHub](https://github.com/vanessarodriguesdasilva)
+
+
 ### ★ Formação
 
 * **Ensino Médio Técnico:** SENAI (cursando)
